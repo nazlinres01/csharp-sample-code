@@ -1,0 +1,7 @@
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\Ders5\bin\Debug\Ders5.exe.config
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\Ders5\bin\Debug\Ders5.exe
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\Ders5\bin\Debug\Ders5.pdb
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\Ders5\obj\Debug\Ders5.csprojAssemblyReference.cache
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\Ders5\obj\Debug\Ders5.csproj.CoreCompileInputs.cache
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\Ders5\obj\Debug\Ders5.exe
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\Ders5\obj\Debug\Ders5.pdb

@@ -1,0 +1,7 @@
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\İnterface\bin\Debug\İnterface.exe.config
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\İnterface\bin\Debug\İnterface.exe
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\İnterface\bin\Debug\İnterface.pdb
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\İnterface\obj\Debug\İnterface.csprojAssemblyReference.cache
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\İnterface\obj\Debug\İnterface.csproj.CoreCompileInputs.cache
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\İnterface\obj\Debug\İnterface.exe
+C:\Users\nazlı.hp-pc\source\repos\C_SharpCourse\İnterface\obj\Debug\İnterface.pdb
