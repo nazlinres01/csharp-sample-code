@@ -1,0 +1,9 @@
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\nazlı.hp-pc\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
